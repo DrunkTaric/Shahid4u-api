@@ -1,0 +1,22 @@
+{
+  "name": "shahid4u-api",
+  "version": "1.0.0",
+  "description": "Api for Downloading movies and series",
+  "main": "main.js",
+  "scripts": {
+    "start": "tsc --outDir ./export && node ./export/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrunkTaric/Shahid4u-api.git"
+  },
+  "author": "ComboRush#1171",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrunkTaric/Shahid4u-api/issues"
+  },
+  "homepage": "https://github.com/DrunkTaric/Shahid4u-api#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
