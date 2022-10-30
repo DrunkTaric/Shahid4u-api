@@ -10,8 +10,7 @@ export class http {
                     s: search.replace(" ", "+")
                 }
             }).then((res) => {
-                console.log(res)
-                resolve(res)
+                resolve(res.data)
             })
         })
     }
