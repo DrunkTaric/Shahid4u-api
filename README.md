@@ -19,3 +19,7 @@
 <iframe src="VIDEO-QUERRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 ```
 so basically you can implement it to your website
+
+**Q:** What if the domain is down ?
+
+**A:** then change "domain" varuable at the the first lines of the code
